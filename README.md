@@ -7,5 +7,5 @@ Explore various types of semiconductor packages (DIP, QFN, BGA, 2.5D/3D ICs), in
 - [**Module 1**](./Module1/readme.md)  Fandamental Semiconductor Packaging - From Foundation level to advance level
 - [**Module 2**](./Module2/readme.md) Wafer/Die to packaging  - Assembly and Manufacturing
 - [**Module 3**](./Module3/readme.md) Labs - Thermal Simulation of semoconductor Packaging with ANSYS Tool
-- [**Module**](./Module4/readme.md) Packaging Testing - testing and Validation of Packaging
-- [**Module**](./Module5/readme.md) Designing of Packge - Constuct the Package from start to end level     
+- [**Module 4**](./Module4/readme.md) Packaging Testing - testing and Validation of Packaging
+- [**Module 5**](./Module5/readme.md) Designing of Packge - Constuct the Package from start to end level     
