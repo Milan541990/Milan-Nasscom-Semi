@@ -5,5 +5,7 @@ This repository provides an end-to-end understanding of **semiconductor packagin
 Explore various types of semiconductor packages (DIP, QFN, BGA, 2.5D/3D ICs), interposers, and substrate technologies through diagrams and comparative tables. The repo also includes reliability analysis, manufacturing steps, and thermal simulation insights using ANSYS.
 ## Modules
 - [**Module 1**](./Module1/readme.md)  Fandamental Semiconductor Packaging - From Foundation level to advance level
-- [Module 2](./Module2/readme.md) Wafer/Die to packaging  - Assembly and Manufacturing
-- 
+- [**Module 2**](./Module2/readme.md) Wafer/Die to packaging  - Assembly and Manufacturing
+- [**Module 3**](./Module3/readme.md) Labs - Thermal Simulation of semoconductor Packaging with ANSYS Tool
+- [**Module**](./Module4/readme.md) Packaging Testing - testing and Validation of Packaging
+- [**Module**](./Module5/readme.md) Designing of Packge - Constuct the Package from start to end level     
