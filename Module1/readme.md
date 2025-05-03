@@ -5,5 +5,5 @@
       semiconductor devices on die(e.g corrosion, moisture and physical damage)</li>
  <li>Connection of die to other dies through packaging.</li>
  </ul>
- ![image](../SCR/Screenshot%202025-04-03%20135438.jpg)
+ 
          
