@@ -16,4 +16,13 @@
 * Each step was visualized and validated using AEDT’s 3D simulation environment, and I took screenshots at key stages to document the design progression.
 
 * Below steps explain how to create wire bond packaging using ANSYS tool
-
+<img src="/SCR/img1.jpg">
+<img src="/SCR/img2.jpg">
+<img src="/SCR/img3.jpg">
+<img src="/SCR/img4.jpg">
+<img src="/SCR/img5.jpg">
+<img src="/SCR/img6.jpg">
+<img src="/SCR/img7.jpg">
+<img src="/SCR/img8.jpg">
+<img src="/SCR/img9.jpg">
+<img src="/SCR/img10.jpg">
