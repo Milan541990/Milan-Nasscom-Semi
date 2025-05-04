@@ -28,4 +28,4 @@
 * Form factor is decided the area of package on board how munch size required of package.
 * Materials using in the package is decide to reliability or durability.
 * At last cost using the semiconductor technologies minimize the cost of packaging.
-<img scr="/SCR/IMG4.jpg" alt="image">
+<img src="/SCR/IMG4.jpg" alt="image">
