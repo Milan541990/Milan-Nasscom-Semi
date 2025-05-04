@@ -15,4 +15,17 @@
    
 
 * Below steps explain how to set up the ANSYS tool to perform thermal simulation of Flip-Chip BGA package
-
+<img src="/SCR/IMG9.jpg">
+<img src="/SCR/IMG10.jpg">
+<img src="/SCR/IMG11.jpg">
+<img src="/SCR/IMG12.jpg">
+<img src="/SCR/IMG13.jpg">
+<img src="/SCR/IMG14.jpg">
+<img src="/SCR/IMG15.jpg">
+<img src="/SCR/IMG16.jpg">
+<img src="/SCR/IMG17.jpg">
+<img src="/SCR/IMG18.jpg">
+<img src="/SCR/IMG19.jpg">
+<img src="/SCR/IMG20.jpg">
+<img src="/SCR/IMG21.jpg">
+<img src="/SCR/IMG22.jpg">
