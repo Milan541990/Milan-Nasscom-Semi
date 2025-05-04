@@ -8,4 +8,4 @@ Intoduction various types of semiconductor packages (DIP, QFN, BGA, 2.5D/3D ICs)
 - [**Module 2**](./Module2/readme.md) Wafer/Die to packaging  - Assembly and Manufacturing
 - [**Module 3**](./Module3/readme.md) Labs - Thermal Simulation of semoconductor Packaging with ANSYS Tool
 - [**Module 4**](./Module4/readme.md) Packaging Testing - Testing and Validation of Packaging
-- [**Module 5**](./Module5/readme.md) Designing of Packge - Constuct the Package from start to end level     
+- [**Module 5**](./Module5/readme.md) Designing of Package - Construct the Package from start to end level     
