@@ -1,4 +1,4 @@
-## 
+## Designing of Package
 * In this lab, I used Ansys Electronics Desktop (AEDT) to virtually design a semiconductor wire bond package from scratch. The objective was to create a complete cross-sectional model of the package till the molding/sealing stage.
 
 * I started by defining the die and substrate geometry using AEDT’s 3D layout tools. Then, I imported the die dimensions and assigned the appropriate material properties to replicate realistic semiconductor behavior.
