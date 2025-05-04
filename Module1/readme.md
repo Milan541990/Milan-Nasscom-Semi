@@ -19,6 +19,20 @@
 * Third phase of semiconductor is packaging where the packaging process done(e.g ASE, Amkor, JCET) companies made packaging of semiconductor.
 * Forth phase of semiconductor is assembly after packaging of semiconductor, it’s goes to assemble on PCB.
 <img src="/SCR/IMG3.jpg" alt="image">
+## Product Requirement
+* First we required the die which is sit on the substrate and after that it’s assemble on board
+* So first thing was know about the application of semiconductor (e.g logic ,memory, power)
+* After that to check how fast working with other die or connect to other die on board.
+* Thermal dissipation is one of most important part in semiconductor because semi. sit on package and system and chip dissipation decided on this part.
+* Form factor is decided the area of package on board how munch size required of package.
+* Materials using in the package is decide to reliability or durability.
+* At last cost using the semiconductor technologies minimize the cost of packaging.
+
+
+
+
+
+
 
 
 
