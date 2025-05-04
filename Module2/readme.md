@@ -13,5 +13,19 @@
 * In 2.1D package die is connected to the substrate RDL Layer , in this packaging system die to die connection through a RDL Layer.   
 <img src="/IMG6.jpg" alt="image">
 
+## Introduction of Package Manufacturing Unit
+* In package manufacturing unit have ATMP unit where a assembly, testing , marking, and packaging process done.
+* ATMP unit have materials preparation and storage area, utility and maintenance room , process zone it’s call clean room which is regulate the ISO class 6&7, In this area to carry out the key process like die bonding, wire and flip-chip bonding, encapsulation, RDL formation.
+* And after have testing area where a electrical, burn-in, and reliability chamber test done.
+* At last have a warehouse materials out for the assemble. 
+<img src="/IMG7.jpg" alt="image">
+
+## Process Inside the Clean Room
+* At first wafer arrived in wafer carrier and wafer goes to in inspection phase after the inspection wafer are laminated through a tape a lamination part of wafer is front side where circuit is available, because in this process we need to protect circuit area of wafer and hole the remaining process done on back side where the substrate is available.
+* After the lamination process, wafer goes to griding process where the griding of wafer and cutting of silicon  process done.
+* After the griding process done tape frame mounting process to wafer back side done.
+* After that wafer dicing process done wafer are cutting through the blade or laser grooving.
+<img src="/IMG8.jpg" alt="image">
+
 
 
